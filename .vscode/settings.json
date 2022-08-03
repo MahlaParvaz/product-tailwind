@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {},
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 200
+}
